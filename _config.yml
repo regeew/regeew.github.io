@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: regiswidmer.ch
-email: works@regiswidmer.ch
+email: work@regiswidmer.ch
 description: >- # this means to ignore newlines until "baseurl:"
 twitter_username: # username
 github_username: # username
@@ -61,19 +61,19 @@ plugins:
 author:
   name   : "Régis Widmer"
   avatar : "assets/images/regee2.jpg"
-  bio    : "Architect. Human problem-solver with a computer. And two cats.<br/> Mainly using Grashopper3D and Rhinoceros"
+  bio    : "Architect. Human problem-solver with a computer. And two cats. Mainly using Grasshopper3D and Rhinoceros"
   #bio    : "Architecte dipl. EPFL. Interessé par la géométrie compuationnelle, l'algoritmie et la fabrication."
   location: Lausanne, Suisse
   links:
-    - label: "Mail"
+    - label: " Mail"
       icon: "fab far fa-envelope"
       url: "mailto://work@regiswidmer.ch"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
-    - label: "Linkedin"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://linkedin.com/"
+    - label: " Instagram"
+      icon: "fab fa-instagram"
+      url: "https://www.instagram.com/rejiizz/"
+    - label: " Linkedin"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/régis-widmer-457b4097/"
 
 footer:
   #  links:
