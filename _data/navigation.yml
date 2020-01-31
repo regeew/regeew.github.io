@@ -42,14 +42,15 @@ bar:
   - title: "Recherches"
     url: /recherches/
     children:
-#      - title: "SITG.To.Rhino.Inside.Revit"
-#        url:
-#      - title: "Stéréotomie AR"
-#        url:
+      - title: "Compliance Web Checker"
+        url: /recherches/webchecker/
+      - title: "SITG.SyncIn.Rhino.Inside.Revit"
+        url: /recherches/sitg-rir/
       - title: "Digital le Corbusier"
         url: /recherches/digital-corbusier/
-#      - title: "WebChecker"
+#      - title: "Stéréotomie AR"
 #        url:
+
       # - title: "BIM Bullshit Generator"
       #   url:
       # - title: "Discourse"

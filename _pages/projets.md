@@ -10,7 +10,7 @@ gallery:
   image_path: /assets/images/TAO/mingshan-c.jpg
   title: "Ming Shan"
 - url: /projets/irii/
-  image_path: /assets/images/MOON/irii-c.jpg
+  image_path: /assets/images/moon/irii-c.jpg
   title: "Infinity Room II"
 - url: /projets/wing/
   image_path: /assets/images/WING/wing-c.jpg

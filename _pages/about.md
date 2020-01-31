@@ -10,4 +10,4 @@ De 2015 à 2018, je travaille au sein de la cellule de calculation Tekhne SA, o�
 
 Dès 2018, j'intègre le laboratoire de [Cultures Numériques du Projet Architectural](https://www.epfl.ch/labs/cnpa/fr/index-fr-html/) du Prof. Cache (EPFL). J'y gère plusieurs projets de recherche sur l'intégration d'outils numériques dans le processus de conception et de construction de bâtiments. Je participe également à l'enseignement CAO et FAO aux étudiants d'architecture.
 
-Mes diverses expériences me permettent de nourrir mon fort intérêt à l'application et le développement d'outils computationnels comme support du projet architectural.
+Mes diverses expériences me permettent de nourrir mon fort intérêt à l'application et au développement d'outils computationnels comme support du projet architectural.

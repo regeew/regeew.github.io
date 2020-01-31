@@ -65,15 +65,18 @@ author:
   #bio    : "Architecte dipl. EPFL. Interessé par la géométrie compuationnelle, l'algoritmie et la fabrication."
   location: Lausanne, Suisse
   links:
-    - label: " Mail"
-      icon: "fab far fa-envelope"
-      url: "mailto://work@regiswidmer.ch"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:work@regiswidmer.ch"
     - label: " Instagram"
-      icon: "fab fa-instagram"
+      icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/rejiizz/"
     - label: " Linkedin"
-      icon: "fab fa-linkedin"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/régis-widmer-457b4097/"
+    - label: "LaPorch"
+      icon: "fas fa-fw fa-link"
+      url: "http://www.laporch.ch"
 
 footer:
   #  links:

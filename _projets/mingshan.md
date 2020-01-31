@@ -18,8 +18,8 @@ gallery2:
   - url: assets/images/TAO/tao-opti-1.jpg
     image_path: assets/images/TAO/tao-opti-1.jpg
     title: "optimisation chute"
-  - url: assets/images/TAO/tao-opti-2.PNG
-    image_path: assets/images/TAO/tao-opti-2.PNG
+  - url: assets/images/TAO/tao-opti-2.png
+    image_path: assets/images/TAO/tao-opti-2.png
     title: "optimisation chute script"
 gallery3:
   - url: assets/images/TAO/tao-opti-4.jpg

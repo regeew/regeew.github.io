@@ -54,7 +54,7 @@ gallery4:
 {% include figure image_path="assets/images/moon/ar-1.jpeg" %}
 
 
-#### Numérotation et mise à plat des panneaux et support automatique
+#### Numérotation et mise à plat des panneaux et supports automatique
 {% include figure image_path="assets/images/moon/fab-1.jpg" %}
 
 {% include gallery id="gallery3" layout="half" %}
