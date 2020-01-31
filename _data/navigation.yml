@@ -1,0 +1,56 @@
+main:
+  - title: "Projets"
+    url: /projets/
+  - title: "Objets"
+    url: /objets/
+  - title: "Recherches"
+    url: /recherches/
+  - title: "A propos"
+    url: /about/
+
+bar:
+  - title: "Projets"
+    url: /projets/
+    children:
+      - title: "Ming Shan"
+        url: /projets/mingshan/
+      - title: "Infinity Room II"
+        url: /projets/irii/
+      - title: "Wing Pavillon"
+        url: /projets/wing/
+      - title: "Nina"
+        url: /projets/nina/
+      - title: "Wind Pattern"
+        url: /projets/wind/
+      - title: "Te sens-tu en vie, dans la ville?"
+        url: /projets/diplome/
+      - title: "SMAPJV"
+        url: /projets/smapjv/
+      - title: "Burg-Am-Greiffensee"
+        url: /projets/greiffensee/
+  - title: "Objets"
+    url: /objets/
+    children:
+      - title: "Destroy to Create"
+        url: /objets/destroycreate/
+      - title: "Concrete Stool"
+        url: /objets/concrete-stool/
+      - title: "Concrete Speakers"
+        url: /objets/concrete-speaker/
+      - title: "Model OnStage"
+        url: /objets/model-onstage/
+  - title: "Recherches"
+    url: /recherches/
+    children:
+#      - title: "SITG.To.Rhino.Inside.Revit"
+#        url:
+#      - title: "Stéréotomie AR"
+#        url:
+      - title: "Digital le Corbusier"
+        url: /recherches/digital-corbusier/
+#      - title: "WebChecker"
+#        url:
+      # - title: "BIM Bullshit Generator"
+      #   url:
+      # - title: "Discourse"
+      #   url:
