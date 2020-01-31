@@ -8,24 +8,24 @@ header:
 sidebar:
   - nav: bar
 gallery:
-  - url: assets\images\greiffensee\plan.jpg
-    image_path: assets\images\greiffensee\plan.jpg
+  - url: assets/images/greiffensee/plan.jpg
+    image_path: assets/images/greiffensee/plan.jpg
     title: "Plan 1/200"
-  - url: assets\images\greiffensee\coupe-th.jpg
-    image_path: assets\images\greiffensee\coupe-th.jpg
+  - url: assets/images/greiffensee/coupe-th.jpg
+    image_path: assets/images/greiffensee/coupe-th.jpg
     title: "Coupe 1/100"
 gallery2:
-  - url: assets\images\greiffensee\maq2.jpg
-    image_path: assets\images\greiffensee\maq2.jpg
+  - url: assets/images/greiffensee/maq2.jpg
+    image_path: assets/images/greiffensee/maq2.jpg
     title: "Maquette 1/50"
-  - url: assets\images\greiffensee\maq3.jpg
-    image_path: assets\images\greiffensee\maq3.jpg
+  - url: assets/images/greiffensee/maq3.jpg
+    image_path: assets/images/greiffensee/maq3.jpg
     title: "Maquette 1/50"
-  - url: assets\images\greiffensee\maq4.jpg
-    image_path: assets\images\greiffensee\maq4.jpg
+  - url: assets/images/greiffensee/maq4.jpg
+    image_path: assets/images/greiffensee/maq4.jpg
     title: "Maquette 1/50"
-  - url: assets\images\greiffensee\maq5.jpg
-    image_path: assets\images\greiffensee\maq5.jpg
+  - url: assets/images/greiffensee/maq5.jpg
+    image_path: assets/images/greiffensee/maq5.jpg
     title: "Maquette 1/50"
 ---
 

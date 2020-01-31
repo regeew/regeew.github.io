@@ -8,56 +8,56 @@ header:
 sidebar:
   - nav: bar
 gallery:
-  - url: assets\images\diplome\edicule.jpg
-    image_path: assets\images\diplome\edicule.jpg
+  - url: assets/images/diplome/edicule.jpg
+    image_path: assets/images/diplome/edicule.jpg
     title: "Edicule Planche"
-  - url: assets\images\diplome\edicule_totem.jpg
-    image_path: assets\images\diplome\edicule_totem.jpg
+  - url: assets/images/diplome/edicule_totem.jpg
+    image_path: assets/images/diplome/edicule_totem.jpg
     title: "Edicule Totem"
-  - url: assets\images\diplome\edicule_150.jpg
-    image_path: assets\images\diplome\edicule_150.jpg
+  - url: assets/images/diplome/edicule_150.jpg
+    image_path: assets/images/diplome/edicule_150.jpg
     title: "Edicule 1/50"
-  - url: assets\images\diplome\image_edicule.jpg
-    image_path: assets\images\diplome\image_edicule.jpg
+  - url: assets/images/diplome/image_edicule.jpg
+    image_path: assets/images/diplome/image_edicule.jpg
     title: "Edicule 1/20"
 gallery2:
-  - url: assets\images\diplome\escalier.jpg
-    image_path: assets\images\diplome\escalier.jpg
+  - url: assets/images/diplome/escalier.jpg
+    image_path: assets/images/diplome/escalier.jpg
     title: "Escalier Planche"
-  - url: assets\images\diplome\escalier_totem.jpg
-    image_path: assets\images\diplome\escalier_totem.jpg
+  - url: assets/images/diplome/escalier_totem.jpg
+    image_path: assets/images/diplome/escalier_totem.jpg
     title: "Escalier Totem"
-  - url: assets\images\diplome\escalier_150.jpg
-    image_path: assets\images\diplome\escalier_150.jpg
+  - url: assets/images/diplome/escalier_150.jpg
+    image_path: assets/images/diplome/escalier_150.jpg
     title: "Escalier 1/50"
-  - url: assets\images\diplome\image_escalier.jpg
-    image_path: assets\images\diplome\image_escalier.jpg
+  - url: assets/images/diplome/image_escalier.jpg
+    image_path: assets/images/diplome/image_escalier.jpg
     title: "Escalier 1/20"
 gallery3:
-  - url: assets\images\diplome\milan.jpg
-    image_path: assets\images\diplome\milan.jpg
+  - url: assets/images/diplome/milan.jpg
+    image_path: assets/images/diplome/milan.jpg
     title: "Kiosque Planche"
-  - url: assets\images\diplome\milan_totem.jpg
-    image_path: assets\images\diplome\milan_totem.jpg
+  - url: assets/images/diplome/milan_totem.jpg
+    image_path: assets/images/diplome/milan_totem.jpg
     title: "Kiosque Totem"
-  - url: assets\images\diplome\milan_150.jpg
-    image_path: assets\images\diplome\milan_150.jpg
+  - url: assets/images/diplome/milan_150.jpg
+    image_path: assets/images/diplome/milan_150.jpg
     title: "Kiosque 1/50"
-  - url: assets\images\diplome\image_milan.jpg
-    image_path: assets\images\diplome\image_milan.jpg
+  - url: assets/images/diplome/image_milan.jpg
+    image_path: assets/images/diplome/image_milan.jpg
     title: "Kiosque 1/20"
 gallery4:
-  - url: assets\images\diplome\rumine.jpg
-    image_path: assets\images\diplome\rumine.jpg
+  - url: assets/images/diplome/rumine.jpg
+    image_path: assets/images/diplome/rumine.jpg
     title: "Parc Planche"
-  - url: assets\images\diplome\rumine_totem.jpg
-    image_path: assets\images\diplome\rumine_totem.jpg
+  - url: assets/images/diplome/rumine_totem.jpg
+    image_path: assets/images/diplome/rumine_totem.jpg
     title: "Parc Totem"
-  - url: assets\images\diplome\rumine_150.jpg
-    image_path: assets\images\diplome\rumine_150.jpg
+  - url: assets/images/diplome/rumine_150.jpg
+    image_path: assets/images/diplome/rumine_150.jpg
     title: "Parc 1/50"
-  - url: assets\images\diplome\image_rumine.jpg
-    image_path: assets\images\diplome\image_rumine.jpg
+  - url: assets/images/diplome/image_rumine.jpg
+    image_path: assets/images/diplome/image_rumine.jpg
     title: "Parc 1/20"
 ---
 | **Professeurs** |  Alexandre Blanc, Urs Egg  | **Maître EPFL** | Cheung Teresa |

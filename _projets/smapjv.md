@@ -8,34 +8,34 @@ header:
 sidebar:
   - nav: bar
 gallery:
-  - url: assets\images\smapjv\situation-2.jpg
-    image_path: assets\images\smapjv\situation-2.jpg
+  - url: assets/images/smapjv/situation-2.jpg
+    image_path: assets/images/smapjv/situation-2.jpg
     title: "Situation"
-  - url: assets\images\smapjv\smapjv.jpg
-    image_path: assets\images\smapjv\smapjv.jpg
+  - url: assets/images/smapjv/smapjv.jpg
+    image_path: assets/images/smapjv/smapjv.jpg
     title: "SMAPJV"
 gallery2:
-  - url: assets\images\smapjv\situation.jpg
-    image_path: assets\images\smapjv\situation.jpg
+  - url: assets/images/smapjv/situation.jpg
+    image_path: assets/images/smapjv/situation.jpg
     title: "Situation 1/500"
-  - url: assets\images\smapjv\plan.jpg
-    image_path: assets\images\smapjv\plan.jpg
+  - url: assets/images/smapjv/plan.jpg
+    image_path: assets/images/smapjv/plan.jpg
     title: "Plan 1/100"
-  - url: assets\images\smapjv\plan.jpg
-    image_path: assets\images\smapjv\plan.jpg
+  - url: assets/images/smapjv/plan.jpg
+    image_path: assets/images/smapjv/plan.jpg
     title: "Plan 1/100"
-  - url: assets\images\smapjv\axo.jpg
-    image_path: assets\images\smapjv\axo.jpg
+  - url: assets/images/smapjv/axo.jpg
+    image_path: assets/images/smapjv/axo.jpg
     title: "Axonométrie"
-  - url: assets\images\smapjv\details.jpg
-    image_path: assets\images\smapjv\details.jpg
+  - url: assets/images/smapjv/details.jpg
+    image_path: assets/images/smapjv/details.jpg
     title: "Détails 1/50"
 gallery3:
-  - url: assets\images\smapjv\maq2.jpg
-    image_path: assets\images\smapjv\maq2.jpg
+  - url: assets/images/smapjv/maq2.jpg
+    image_path: assets/images/smapjv/maq2.jpg
     title: "Maquette 1/200"
-  - url: assets\images\smapjv\maq3.jpg
-    image_path: assets\images\smapjv\maq3.jpg
+  - url: assets/images/smapjv/maq3.jpg
+    image_path: assets/images/smapjv/maq3.jpg
     title: "Maquette 1/50"
 ---
 
