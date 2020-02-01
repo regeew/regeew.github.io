@@ -8,9 +8,15 @@ header:
 sidebar:
   - nav: bar
 gallery:
-  - url: /assets/images/recherches/webchecker.gif
-    image_path: /assets/images/recherches/webchecker.gif
-    title: "Assistant web de vérification de conformité"
+  - url: /assets/images/recherches/webchecker1.gif
+    image_path: /assets/images/recherches/webchecker1.gif
+    title: "Contrôle de gabarit"
+  - url: /assets/images/recherches/webchecker2.gif
+    image_path: /assets/images/recherches/webchecker2.gif
+    title: "Contrôle de rapport de surface"
+  - url: /assets/images/recherches/webchecker3.gif
+    image_path: /assets/images/recherches/webchecker3.gif
+    title: "Contrôle de vide d'étage"
 ---
 
 | **Description** | Assistant web de vérification de conformité|
