@@ -8,7 +8,7 @@ header:
 sidebar:
   - nav: bar
 gallery:
-  - url: /assets/images/NINA/fab1.jpg
+  - url: /assets/images/NINA/fab1.jpeg
     image_path: /assets/images/NINA/fab1.jpeg
     title: "Fabrication"
   - url: /assets/images/NINA/fab2.jpeg

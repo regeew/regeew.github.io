@@ -49,6 +49,9 @@ gallery:
   - url: /recherches/digital-corbusier/
     image_path: /assets/images/recherches/digital-corbusier.png
     title: "Digital le Corbusier"
+  - url: /recherches/augmented-stereotomy/
+    image_path: /assets/images/recherches/muq-c.jpg
+    title: "Augmented Stereotomy"
 ---
 
 {% include gallery layout="third" %}

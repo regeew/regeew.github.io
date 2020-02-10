@@ -48,8 +48,8 @@ bar:
         url: /recherches/sitg-rir/
       - title: "Digital le Corbusier"
         url: /recherches/digital-corbusier/
-#      - title: "Stéréotomie AR"
-#        url:
+      - title: "Augmented Stereotomy"
+        url: /recherches/augmented-stereotomy/
 
       # - title: "BIM Bullshit Generator"
       #   url:
