@@ -43,6 +43,8 @@ gallery2:
 | **Date** | 2019 |
 {: .notice}
 
+{% include figure image_path="/assets/images/WING/wing-c.jpg" %}
+
 #### Maquettes inititiale faite par l'[Atelierschule](https://www.atelierschule.ch)
 {% include gallery id="gallery2" layout="half" %}
 

@@ -61,8 +61,7 @@ plugins:
 author:
   name   : "Régis Widmer"
   avatar : "assets/images/regee2.jpg"
-  bio    : "Architect. Human problem-solver with a computer. And two cats. Mainly using Grasshopper3D and Rhinoceros"
-  #bio    : "Architecte dipl. EPFL. Interessé par la géométrie compuationnelle, l'algoritmie et la fabrication."
+  bio    : "Architect. Human problem-solver with a computer. A rhinoceros and a grasshopper. And two cats."
   location: Lausanne, Suisse
   links:
     - label: "Email"
